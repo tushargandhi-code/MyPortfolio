@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.23040d34.css",
+    "main.js": "/MyPortfolio/static/js/main.914b6520.js",
+    "static/js/787.1f11dfe9.chunk.js": "/MyPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Tushar Gandhi CV.pdf": "/MyPortfolio/static/media/Tushar Gandhi CV.4e03384fe18bcc7301fa.pdf",
+    "static/media/t.png": "/MyPortfolio/static/media/t.72de25b3133a10d53019.png",
+    "static/media/f.jpg": "/MyPortfolio/static/media/f.c52b9518fdbd62d674a1.jpg",
+    "static/media/p.png": "/MyPortfolio/static/media/p.6bee84e3323f18653849.png",
+    "static/media/s.png": "/MyPortfolio/static/media/s.2275ac3f9405122e2aef.png",
+    "static/media/a.png": "/MyPortfolio/static/media/a.c943966ca06b5966a4b6.png",
+    "static/media/y.jpg": "/MyPortfolio/static/media/y.24769deacad9446d10b5.jpg",
+    "static/media/m.png": "/MyPortfolio/static/media/m.2b7170acbe5708b7a5d9.png",
+    "static/media/z.png": "/MyPortfolio/static/media/z.2895e842667d74171b37.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.23040d34.css.map": "/MyPortfolio/static/css/main.23040d34.css.map",
+    "main.914b6520.js.map": "/MyPortfolio/static/js/main.914b6520.js.map",
+    "787.1f11dfe9.chunk.js.map": "/MyPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23040d34.css",
+    "static/js/main.914b6520.js"
+  ]
+}
