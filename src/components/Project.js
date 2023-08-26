@@ -68,7 +68,7 @@ const Project = () => {
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CATEGORY</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">TODO - Mern App</h1>
-            <p className="leading-relaxed mb-3">It is basically a TODO app which was developed using both backend and frontend frameworks and Mongodb.</p>
+            <p className="leading-relaxed mb-3">TodoApp is an easy-to-use productivity app that was featured as a Life Hack . it increases productivity and provide motivation.</p>
             <div className="flex items-center flex-wrap ">
               <button type="button" onClick={welcome3} className="bg-purple-600 hover:bg-purple-500 text-white font-bold py-2 px-4 border-b-4 border-purple-800 hover:border-purple-600 rounded">
   Visit Website
