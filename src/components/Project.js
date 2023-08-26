@@ -18,7 +18,7 @@ const Project = () => {
 	}
 
 	function welcome3(){
-		window.open("https://www.youtube.com")
+		window.open("https://tushargandhi-code.github.io/TaskMaster/")
 	}
     function welcome4(){
 		window.open("https://tushargandhi-code.github.io/NewDoor/")
